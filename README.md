@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A multiuser blog that provides a functionality of a specific group of bloggers sharing their ideas with people. The audience can then be able to comment based on their reaction to the posts.
     <br> 
 </p>
 
@@ -34,7 +34,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+A web application providing a multi-blogger functionality. Draws its inspiration on the political arena where politicians confined to a certain jurisdiction can be able to share their ideas with the audience.
+
+The audience can then be able to respond to the ideas, which the bloggers can approve or delete.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
